@@ -13,9 +13,11 @@ from keras.utils.vis_utils import model_to_dot
 from keras.utils import plot_model
 from kt_utils import *
 import keras.backend as K
+import pandas as pd
 K.set_image_data_format('channels_last')
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import imshow
+
 
 %matplotlib inline
 
