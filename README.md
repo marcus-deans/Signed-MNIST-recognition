@@ -6,5 +6,5 @@ The model was built in Kaggle for easy dataset import and operations, and the or
 Libraries implemented within this project:
 * Keras
 * TensorFlow
-* Numpy
-* Pandas
+* NumPy
+* pandas
